@@ -5,8 +5,9 @@
 ##### Let's see which type of store performs best on each continent. Physical stores in North America perform best, followed by catalog and online.
 ##### In Europe and Asia, relatively all types of stores perform in the same way.
 ![Image alt](https://github.com/NataliaMak20/Data-Analysis-in-Excel/blob/main/StoreTypesbyContinent.png)
-##### It's good to understand what type of category of products are selling the most. Here is top 3 categories:
+##### It's good to understand what type of category of products are selling the most in each store. Here is top 3 categories from Contoso stores in Australia:
 1. Home Appliances.
 2. Computers.
 3. Cameras and Camcorders.
+##### Games and toys are the least popular among product categories.
 ![Image alt](https://github.com/NataliaMak20/Data-Analysis-in-Excel/blob/main/BestSellers.png)
