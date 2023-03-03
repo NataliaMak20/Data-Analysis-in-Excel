@@ -9,3 +9,4 @@
 1. Home Appliances.
 2. Computers.
 3. Cameras and Camcorders.
+![Image alt](https://github.com/NataliaMak20/Data-Analysis-in-Excel/blob/main/BestSellers.png)
