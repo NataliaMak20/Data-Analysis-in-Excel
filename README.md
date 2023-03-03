@@ -11,3 +11,4 @@
 3. Cameras and Camcorders.
 ##### Games and toys are the least popular among product categories.
 ![Image alt](https://github.com/NataliaMak20/Data-Analysis-in-Excel/blob/main/BestSellers.png)
+##### We can also see which store has been in decline for three consecutive months. At the Contoso store in Islamabad, sales fell for three months in a row.
