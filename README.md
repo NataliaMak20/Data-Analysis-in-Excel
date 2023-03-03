@@ -13,3 +13,5 @@
 ![Image alt](https://github.com/NataliaMak20/Data-Analysis-in-Excel/blob/main/BestSellers.png)
 ##### We can also see which store has been in decline for three consecutive months. At the Contoso store in Islamabad, sales fell for three months in a row.
 ![Image alt](https://github.com/NataliaMak20/Data-Analysis-in-Excel/blob/main/dropinsales.png)
+### Final Dashboard
+![Image alt](https://github.com/NataliaMak20/Data-Analysis-in-Excel/blob/main/Dashboard-Contoso.jpeg)
