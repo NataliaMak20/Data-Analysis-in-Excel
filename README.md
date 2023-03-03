@@ -2,6 +2,10 @@
 ##### For my analysis I took data from the company named Contoso. Contoso selling products all over the world, online and in stores. 
 ##### First question is to understand how many stores Contoso have in total. 
 ![Image alt](https://github.com/NataliaMak20/Data-Analysis-in-Excel/blob/main/ContosoData.png)
-##### Lets see what store type performs the best in each continent. North America physical store performs the best, following by Catalog and Online. 
-##### In Europe and Asia relatively all store types performs the same.
+##### Let's see which type of store performs best on each continent. Physical stores in North America perform best, followed by catalog and online.
+##### In Europe and Asia, relatively all types of stores perform in the same way.
 ![Image alt](https://github.com/NataliaMak20/Data-Analysis-in-Excel/blob/main/StoreTypesbyContinent.png)
+##### It's good to understand what type of category of products are selling the most. Here is top 3 categories:
+1. Home Appliances.
+2. Computers.
+3. Cameras and Camcorders.
